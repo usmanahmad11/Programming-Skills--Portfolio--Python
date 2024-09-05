@@ -4,7 +4,7 @@
 
 Fill in the blanks in the Python code below to output the phrase **"Coding is Cool"** to the console using variables and string concatenation.
 
-```python
+
 # Fill in the blanks below
 word1 = 
 word2 = 
@@ -15,8 +15,7 @@ _____(_________)
 
 __________________________________________________________________________________
 
-
-# Exercise 2: Simple Sums
+## Exercise 2: Simple Sums
 
 In this exercise, you will create and work with integer variables, perform arithmetic operations, and print the result to the console.
 
