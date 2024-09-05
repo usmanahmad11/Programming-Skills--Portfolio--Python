@@ -122,7 +122,7 @@ Write a program that searches for a specific string within a list of strings. Th
 _______________________________________________________________________________________
 
 
-## Exercise 8: Hello
+## Exercise 9: Hello
 
 Fill in the blanks in the code below so that the function hello() prints "Hello" to the console.
 ```python
@@ -137,3 +137,16 @@ if __name__ == "__main__":
     main()
 ```
 ________________________________________________________________________________________
+
+## Exercise 10: Is it even?
+
+Write a program that tests if a value is even or odd. Follow the instructions outlined below:
+
+### Instructions:
+* The program should ask the user for a number from within the main function.
+* The entered number should be passed to a function that determines if the value is even or odd.
+* The function should return a message indicating whether the number is even or odd.
+* The message returned by the function should be printed from within the main function.
+
+
+_________________________________________________________________________________________
