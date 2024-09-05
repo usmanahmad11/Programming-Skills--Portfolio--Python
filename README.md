@@ -48,3 +48,34 @@ Test the program by entering a string value for age (e.g., "twenty"). What happe
 
 
 __________________________________________________________________________________
+
+
+## Exercise 4: Primitive Quiz
+
+In this exercise, you'll create a simple program that asks the user a question, evaluates their answer, and provides feedback.
+
+### Steps:
+Write a program that asks the user "What is the capital of France?" and waits for their response.
+If the user's answer is correct (i.e., "Paris"), the program should print a message saying the answer is correct.
+If the answer is incorrect, the program should print a message saying the answer is wrong.
+
+### Advanced Requirements:
+Ignore Capitalization: Modify your program to accept answers regardless of the capitalization (e.g., "paris", "Paris", and "PaRis" should all be considered correct).
+Multiple Questions: Extend the program into a quiz that asks for the capitals of 10 European countries. Provide feedback for each question.
+
+___________________________________________________________________________________
+
+## Exercise 5: Days of the Month
+
+Write a program that tells a user how many days there are in a specific month. Use a dictionary to map the month numbers (1-12) to the number of days in each month.
+
+### Instructions:
+1. Create a Dictionary: Define a dictionary where the keys are month numbers and the values are the number of days in those months.
+2. Input Handling: Ask the user to input the month number.
+3. Check and Output: Use an if-else statement to check if the input is valid and print the number of days in the corresponding month.
+
+### Advanced Requirement:
+Leap Year Adjustment: Modify the program to account for leap years. For February, ask the user if the year is a leap year and adjust the number of days accordingly.
+
+
+____________________________________________________________________________________
