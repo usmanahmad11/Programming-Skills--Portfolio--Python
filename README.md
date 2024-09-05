@@ -79,3 +79,33 @@ Leap Year Adjustment: Modify the program to account for leap years. For February
 
 
 ____________________________________________________________________________________
+
+## Exercise 6: Brute Force Attack
+
+Write a program that simulates a password entry system. The correct password is defined as 12345. The program should keep asking the user to enter the password until they provide the correct one.
+
+### Basic Requirements:
+1. Define the correct password.
+2. Use a while loop to repeatedly ask the user for the password until the correct one is entered.
+3. Output an appropriate message when the correct password is entered.
+
+### Optional Requirements:
+
+Modify the program to include a maximum of 5 password attempts. If the user enters the wrong password, inform them of the remaining attempts. If the maximum number of attempts is reached, inform the user that the authorities have been alerted.
+
+
+_____________________________________________________________________________________
+
+## Exercise 7: Some Counting
+
+Use your newly acquired knowledge of the for loop to complete the following tasks. Print all values to console
+in each case.
+* Write a loop that counts up from 0 to 50 in increments of 1.
+* Write a loop that counts down from 50 to 0 in decrements of 1.
+* Write a loop that counts up from 30 to 50 in increments of 1.
+* Write a loop that counts down from 50 to 10 in decrements of 2.
+* Write a loop that counts up from 100 to 200 in increments of 5.
+*You may include all loops in a single project*
+
+
+______________________________________________________________________________________
