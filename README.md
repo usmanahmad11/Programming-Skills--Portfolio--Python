@@ -30,7 +30,7 @@ In this exercise, you will create and work with integer variables, perform arith
 
 __________________________________________________________________________________
 
-## Exercise 3: Storing and Printing Personal Information Using Dictionaries
+## Exercise 3: Biography
 
 In this exercise, you'll create a program that stores and prints your name, hometown, and age to the console using a Python dictionary.
 
@@ -41,7 +41,7 @@ In this exercise, you'll create a program that stores and prints your name, home
 
 
 
-###Advanced Requirements:
+### Advanced Requirements:
 Have the user input their name, hometown, and age instead of hardcoding the values.
 Try giving both your first and second name when asked for your name. What happens? How can you handle multiple words in Python?
 Test the program by entering a string value for age (e.g., "twenty"). What happens? How can you prevent this issue?
