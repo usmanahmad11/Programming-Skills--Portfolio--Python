@@ -1,6 +1,6 @@
 # Programming-Skills-Portfolio-Python
 
-## Exercise 1: Coding is Cool
+## Exercise 1: Coding is Cool- 10 Marks
 
 Fill in the blanks in the Python code below to output the phrase **"Coding is Cool"** to the console using variables and string concatenation.
 
@@ -18,7 +18,7 @@ _____(_________)
 
 __________________________________________________________________________________
 
-## Exercise 2: Simple Sums
+## Exercise 2: Simple Sums - 15 Marks
 
 In this exercise, you will create and work with integer variables, perform arithmetic operations, and print the result to the console.
 
@@ -30,7 +30,7 @@ In this exercise, you will create and work with integer variables, perform arith
 
 __________________________________________________________________________________
 
-## Exercise 3: Biography
+## Exercise 3: Biography - 25 Marks
 
 In this exercise, you'll create a program that stores and prints your name, hometown, and age to the console using a Python dictionary.
 
@@ -50,7 +50,7 @@ Test the program by entering a string value for age (e.g., "twenty"). What happe
 __________________________________________________________________________________
 
 
-## Exercise 4: Primitive Quiz
+## Exercise 4: Primitive Quiz - 30 Marks
 
 In this exercise, you'll create a simple program that asks the user a question, evaluates their answer, and provides feedback.
 
@@ -65,7 +65,7 @@ Multiple Questions: Extend the program into a quiz that asks for the capitals of
 
 ___________________________________________________________________________________
 
-## Exercise 5: Days of the Month
+## Exercise 5: Days of the Month - Marks
 
 Write a program that tells a user how many days there are in a specific month. Use a dictionary to map the month numbers (1-12) to the number of days in each month.
 
@@ -80,7 +80,7 @@ Leap Year Adjustment: Modify the program to account for leap years. For February
 
 ____________________________________________________________________________________
 
-## Exercise 6: Brute Force Attack
+## Exercise 6: Brute Force Attack - 30 Marks
 
 Write a program that simulates a password entry system. The correct password is defined as 12345. The program should keep asking the user to enter the password until they provide the correct one.
 
@@ -96,9 +96,9 @@ Modify the program to include a maximum of 5 password attempts. If the user ente
 
 _____________________________________________________________________________________
 
-## Exercise 7: Some Counting
+## Exercise 7: Some Counting - 20 Marks
 
-Use your newly acquired knowledge of the for loop to complete the following tasks. Print all values to console
+Use your newly acquired knowledge of the for loop to complete the following tasks. Print all values to the console
 in each case.
 * Write a loop that counts up from 0 to 50 in increments of 1.
 * Write a loop that counts down from 50 to 0 in decrements of 1.
@@ -111,7 +111,7 @@ in each case.
 ______________________________________________________________________________________
 
 
-## Exercise 8: Simple Search
+## Exercise 8: Simple Search - 30 Marks
 
 Write a program that searches for a specific string within a list of strings. The list is initialized with specific names ("Jake" "Zac", "Ian", "Ron", "Sam", "Dave"). , and your task is to search for "Sam".
 
@@ -122,7 +122,7 @@ Write a program that searches for a specific string within a list of strings. Th
 _______________________________________________________________________________________
 
 
-## Exercise 9: Hello
+## Exercise 9: Hello - 10 Marks
 
 Fill in the blanks in the code below so that the function hello() prints "Hello" to the console.
 ```python
@@ -138,7 +138,7 @@ if __name__ == "__main__":
 ```
 ________________________________________________________________________________________
 
-## Exercise 10: Is it even?
+## Exercise 10: Is it even? - 35 Marks
 
 Write a program that tests if a value is even or odd. Follow the instructions outlined below:
 
