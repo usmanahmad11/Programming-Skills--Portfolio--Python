@@ -1,4 +1,4 @@
-# Assessment 1 - Programming-Skills-Portfolio-Python
+# Assessment 1 - Programming-Skills-Portfolio
 
 ## Exercise 1: Coding is Cool- 10 Marks
 
