@@ -13,7 +13,7 @@ The assessment has a total of 335 marks available across the following criteria:
 Each exercise has a set number of marks available. You will be marked on the following:
 * Solution successfully compiles
 * Adherence to the task requirements
-* Correct usage of programming techniques
+* Correct usage of programming techniques 
 * Efficiency of the code
 * Implementation of advanced requirements (where relevant)
 * Correct use of coding conventions (e.g. formatting, indentation, commenting)
