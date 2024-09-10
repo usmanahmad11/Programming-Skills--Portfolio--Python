@@ -10,7 +10,9 @@ messages for these commits, and ensure you are regularly pushing your code back 
 ______________________________________________________________________________
 # Marking
 The assessment has a total of 335 marks available across the following criteria:
+
 ## Technical Implementation - 235 marks (~70%)
+
 Each exercise has a set number of marks available. You will be marked on the following:
 * Solution successfully compiles
 * Adherence to the task requirements
@@ -19,12 +21,15 @@ Each exercise has a set number of marks available. You will be marked on the fol
 * Implementation of advanced requirements (where relevant)
 * Correct use of coding conventions (e.g. formatting, indentation, commenting)
 In addition to the marks are also available for:
+
 ## Repository Presentation - 35 marks (~10%)
 Have you saved your exercises to the correct location and made appropriate use of commits (e.g. per task
 with descriptive messages)
+
 ## Extended Learning - 65 marks (~20%)
 Independent study is a crucial element of university study and helps solidify and extend learning. Additional
 marks are available for the completion of the following online course:
+
 [Introduction to Python](https://www.sololearn.com/en/learn/courses/python-introduction)
 
 
