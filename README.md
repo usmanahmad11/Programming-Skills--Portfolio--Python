@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 # Assessment 1 - Programming-Skills-Portfolio
 Your task is to develop solutions to a series of coding exercises that will test your knowledge of the
 fundamental programming techniques introduced through the course of the module. These exercises
