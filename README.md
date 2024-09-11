@@ -7,7 +7,7 @@ When completing the exercises you should create a new project for each one and s
 Each exercise should be appropriately named (e.g. 01-CodingIsCool) so they are easy to find. You should
 commit changes in your repository often (as a minimum after completing each exercise), use descriptive
 messages for these commits, and ensure you are regularly pushing your code back to GitHub.
-______________________________________________________________________________
+
 # Marking
 The assessment has a total of 335 marks available across the following criteria:
 
