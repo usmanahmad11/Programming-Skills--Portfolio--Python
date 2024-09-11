@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/file/d/1oOqzRT8H4RUqQ1QOuhDiwroMHwfnAbmb/view?usp=sharing)
+![bsu-logo](https://drive.google.com/file/d/1oOqzRT8H4RUqQ1QOuhDiwroMHwfnAbmb/view?usp=sharing)
 # Assessment 1 - Programming-Skills-Portfolio
 Your task is to develop solutions to a series of coding exercises that will test your knowledge of the
 fundamental programming techniques introduced through the course of the module. These exercises
